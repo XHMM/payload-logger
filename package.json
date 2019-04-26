@@ -1,0 +1,25 @@
+{
+  "name": "payload-logger",
+  "version": "0.0.2",
+  "description": "A simple express middlerware to log request.query and request.body",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XHMM/payload-logger.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "xhmm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/XHMM/payload-logger/issues"
+  },
+  "homepage": "https://github.com/XHMM/payload-logger#readme",
+  "dependencies": {
+    "signale": "^1.4.0"
+  },
+  "devDependencies": {
+    "@types/express": "^4.16.1"
+  }
+}
