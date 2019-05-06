@@ -1,7 +1,7 @@
 {
   "name": "payload-logger",
-  "version": "0.0.2",
-  "description": "A simple express middlerware to log request.query and request.body",
+  "version": "0.0.3",
+  "description": "A simple express middleware to log request.query and request.body",
   "main": "index.js",
   "repository": {
     "type": "git",
